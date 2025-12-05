@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "桜、みんなで食べた",
+  "base_artist": "HKT48",
+  "createdAt": "2025-12-05T14:52:39.997297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜、みんなで食べた",
+      "artist": "HKT48",
+      "has_synced": true,
+      "path": "select/01_桜、みんなで食べた_HKT48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜、みんなで食べた",
+      "artist": "HKT48",
+      "has_synced": true,
+      "path": "select/02_桜、みんなで食べた_HKT48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜、みんなで食べた",
+      "artist": "HKT48",
+      "has_synced": false,
+      "path": "select/pl_01_桜、みんなで食べた_HKT48.txt"
+    }
+  ]
+}
